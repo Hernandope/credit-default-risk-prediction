@@ -1,0 +1,123 @@
+###CUSTOM_ndrop
+Performance stats on test set
+Sensitivity = 0.99992
+Specificity = 0.99905
+Precision = 0.99895
+Negative predictive value = 0.99993
+False positive rate = 0.00095
+False negative rate = 0.00008
+False discovery rate =  0.00105
+Accuracy= 0.99946
+epoch  = 1000
+0.019558429718017578 ms
+
+###CUSTOM_drop
+Performance stats on test set
+Sensitivity = 0.99992
+Specificity = 0.99874
+Precision = 0.99859
+Negative predictive value = 0.99993
+False positive rate = 0.00126
+False negative rate = 0.00008
+False discovery rate =  0.00141
+Accuracy= 0.99930
+Epoch = 630
+0.02557206153869629 ms
+
+###TAPERED_ndrop_m3
+Performance stats on test set
+Sensitivity = 0.99984
+Specificity = 0.99675
+Precision = 0.99643
+Negative predictive value = 0.99986
+False positive rate = 0.00325
+False negative rate = 0.00016
+False discovery rate =  0.00357
+Accuracy =  0.99822
+0.13595867156982422 ms
+epoch 50
+
+###TAPERED_drop_m3
+Performance stats on test set
+Sensitivity = 1.00000
+Specificity = 0.99648
+Precision = 0.99611
+Negative predictive value = 1.00000
+False positive rate = 0.00352
+False negative rate = 0.00000
+False discovery rate =  0.00389
+Accuracy =  0.99815
+0.32816100120544434 ms
+epoch 50
+
+
+###TAPERED_ndrop_m0.5
+Performance stats on test set
+Sensitivity = 0.99937
+Specificity = 0.99678
+Precision = 0.99640
+Negative predictive value = 0.99944
+False positive rate = 0.00322
+False negative rate = 0.00063
+False discovery rate =  0.00360
+Accuracy =  0.99800
+0.025522708892822266 ms
+epoch 100
+
+
+###TAPERED_drop_m0.5
+Performance stats on test set
+Sensitivity = 0.99980
+Specificity = 0.99902
+Precision = 0.99891
+Negative predictive value = 0.99982
+False positive rate = 0.00098
+False negative rate = 0.00020
+False discovery rate =  0.00109
+Accuracy =  0.99939
+0.02213001251220703 ms
+epoch: 185
+
+
+###TAPERED_ndrop_m4
+Performance stats on test set
+Sensitivity = 0.99988
+Specificity = 0.99800
+Precision = 0.99777
+Negative predictive value = 0.99989
+False positive rate = 0.00200
+False negative rate = 0.00012
+False discovery rate =  0.00223
+Accuracy =  0.99889
+0.2351241111755371 ms
+epoch: 164
+
+###TAPERED_drop_m4
+
+
+###CUSTOM_ndrop_fives
+Performance stats on test set
+Sensitivity = 0.99996
+Specificity = 0.99524
+Precision = 0.99476
+Negative predictive value = 0.99996
+False positive rate = 0.00476
+False negative rate = 0.00004
+False discovery rate =  0.00524
+Accuracy =  0.99748
+0.023156404495239258 ms
+epoch = 115
+
+
+###CUSTOM_drop_fives
+Performance stats on test set
+Sensitivity = 0.99866
+Specificity = 0.99776
+Precision = 0.99749
+Negative predictive value = 0.99881
+False positive rate = 0.00224
+False negative rate = 0.00134
+False discovery rate =  0.00251
+Accuracy =  0.99819
+0.03167462348937988 ms
+epoch = 151
