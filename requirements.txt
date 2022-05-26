@@ -1,6 +1,6 @@
 numpy==1.18.2
 sklearn==0.0
-tensorflow==1.14.0
+tensorflow==2.7.2
 tensorflow-estimator==1.14.0
 pandas==1.0.3
 matplotlib==3.2.1
